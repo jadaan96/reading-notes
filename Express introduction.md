@@ -47,3 +47,4 @@ GitHub facilitates the software development process by providing tools for integ
 
 ##### What are your learning goals after reading and reviewing the class README?
  my learning goals after readingthe class README  include expanding my knowledge and understanding of Node Modules, Express Middleware, Test-Driven Development (TDD), and testing practices. I aim to deepen my understanding of these topics and improve my ability to effectively implement them in practical scenarios.
+ #### Things I want to know more about:
