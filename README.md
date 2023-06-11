@@ -8,7 +8,7 @@ this website is for  **track my observations and questions** from the reading as
 - ### Code 401 - Advanced Software Development
 
 ### Table of Contents
-1- [reading assignment](https://github.com/jadaan96/reading-notes/blob/main/reading%20assignment)
+1- [reading assignment](https://github.com/jadaan96/reading-notes.md/blob/main/reading%20assignment.md)
 
 2- [Node Ecosystem](https://github.com/jadaan96/reading-notes.md/blob/main/class1.md)
 
