@@ -14,5 +14,6 @@ this website is for  **track my observations and questions** from the reading as
 | 2   | [Node Ecosystem](https://github.com/jadaan96/reading-notes.md/blob/main/class1.md)
 |3|        [Express introduction](https://github.com/jadaan96/reading-notes.md/blob/main/Express%20introduction.md)
 |4|[Data Structures and Algorithms](https://github.com/jadaan96/reading-notes.md/blob/main/Express%20introduction.md)
+|5| [Express REST API](https://github.com/jadaan96/reading-notes.md/blob/main/Express%20REST%20API.md)
 ## Things I want to know more about
 * developing resilience in the face of setbacks and failures from the De Botton video 
