@@ -16,5 +16,7 @@ this website is for  **track my observations and questions** from the reading as
 |4|[Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md)
 |5| [Express REST API](./Express%20REST%20API.md)
 |6| [Data Modeling](./Data%20Modeling.md)
+|7| [Authentication](./Authentication.md)
+
 ## Things I want to know more about
 * developing resilience in the face of setbacks and failures from the De Botton video 
